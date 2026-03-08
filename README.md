@@ -1,5 +1,11 @@
 # 🍽️ Delicious Bites - Restaurant Website
 
+[![GitHub](https://img.shields.io/badge/GitHub-Restaurant%20App-blue)](https://github.com/haris720/restuarent-app)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)](https://www.mongodb.com/)
+[![React](https://img.shields.io/badge/Frontend-React-61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-339933)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/API-Express-000000)](https://expressjs.com/)
+
 A complete, full-stack restaurant website with modern UI, user authentication, menu browsing, shopping cart, and order management.
 
 ![Restaurant Website](https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200)
