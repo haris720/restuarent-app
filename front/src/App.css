@@ -1,0 +1,10 @@
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #ffefd5 0%, #fff5e6 100%);
+}
+
+/* Main content spacing */
+.main-content {
+  padding-top: 80px;
+  min-height: calc(100vh - 80px);
+}
